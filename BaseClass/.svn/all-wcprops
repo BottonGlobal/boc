@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/yzcm/!svn/ver/8566/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass
+END
+BaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yzcm/!svn/ver/8566/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseViewController.h
+END
+BaseModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseModel.h
+END
+BaseViewModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseViewModel.m
+END
+BaseTopSlideVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseTopSlideVC.m
+END
+BaseNavVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseNavVC.m
+END
+BaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseViewController.m
+END
+CallJsClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/CallJsClass.h
+END
+BaseModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseModel.m
+END
+CallJsClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/CallJsClass.m
+END
+ZDSKRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/ZDSKRow.h
+END
+BaseViewModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseViewModel.h
+END
+BaseTopSlideVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseTopSlideVC.h
+END
+BaseNavVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/BaseNavVC.h
+END
+ZDSKRow.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/yzcm/!svn/ver/8197/app/ios/BBQProject/BBQEngineering/ScmProject/BaseClass/ZDSKRow.m
+END
